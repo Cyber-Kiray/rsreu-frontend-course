@@ -1,0 +1,9 @@
+.box1{
+    display: flex;
+    padding-left: 10px;
+    background-color: aquamarine;
+}
+body{
+    margin: 0px;
+    padding: 0px; 
+}
