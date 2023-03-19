@@ -1,0 +1,13 @@
+.block1{
+    width: 100px;
+    border: 3px rgba(42, 42, 196, 0.467) solid;
+}
+.block2{
+    width: 100px;
+    border: 3px rgba(42, 42, 196, 0.467) ridge;
+    border-radius: 30px;
+}
+.block3{
+    width: 100px;
+    border: 3px rgba(42, 42, 196, 0.467) dotted;
+}
