@@ -4,10 +4,9 @@
 }
 .block2{
     width: 100px;
-    border: 3px rgba(42, 42, 196, 0.467) ridge;
-    border-radius: 30px;
+   outline: solid 3px;
 }
 .block3{
     width: 100px;
-    border: 3px rgba(42, 42, 196, 0.467) dotted;
+    box-shadow: 0 0 0 3px aquamarine;
 }
